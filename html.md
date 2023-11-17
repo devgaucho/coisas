@@ -8,9 +8,15 @@ essa tag fica após a tag de fechamento do head
 
 ## code
 
-essa tag fica dentro do body (as vezes dentro do pre também)
+essa tag fica dentro do body (as vezes fica dentro do pre)
 
 	<code></code>
+
+## div
+
+essa tag fica dentro do body
+
+	<div></div>
 
 ## doctype
 
@@ -30,11 +36,23 @@ a tag head fica após o doctype
 
 	<head></head>
 
+## li
+	
+	essa tag fica dentro do ol e do ul
+
+	<li></li>
+
 ## link
 
 essa tag fica dentro do body
 
 	<a href=""></a>
+
+## ol (lista ordenada)
+
+essa tag fica dentro do body
+
+	<ol></ol>
 
 ## p
 
@@ -53,3 +71,9 @@ essa tag fica dentro do body
 essa tag fica dentro da head
 
 	<title></title>
+
+## ul
+
+essa tag fica dentro do body
+
+	<ul></ul>
