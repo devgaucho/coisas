@@ -1,5 +1,5 @@
 # coisas
 
-- [HTML (básico)](html (básico).md)
-- [HTML (formulários)](html (formulários).md)
-- [HTML (grid do bootstrap)](html (grid do bootstra).md)
+- [HTML básico](html básico.md)
+- [Formulários em HTML](formulários em html.md)
+- [Grid do Bootstrap em HTML](grid do bootstrap em html.md)
