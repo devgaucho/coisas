@@ -2,24 +2,36 @@
 
 ## body
 
-a tag body fica logo após o fechamento da tag `<head>`
+	a tag body fica logo após o fechamento da tag <head>
 
-```
-<body>
-```
+	```
+	<body>
+	```
 
 ## doctype
 
-o *doctype* fica na primeira linha do código-fonte da página
+	o doctype fica na primeira linha do código-fonte da página
 
-```
-<!DOCTYPE html>
-```
+	```
+	<!DOCTYPE html>
+	```
 
-os links ficam dentro da tag `<body>`
+## head
+
+	a tag head fica após o doctype
+
+	```
+	<head></head>
+	```
 
 ## link
 
-```
-<a href=""></a>
-```
+	os links ficam dentro da tag <body>
+
+	```
+	<a href=""></a>
+	```
+
+## title
+
+	a tag title fica dentro da tag <head>
