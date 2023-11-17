@@ -15,6 +15,8 @@
 ## js
 
 1. [jquery básico](jquery_básico.md) <- fazer
+1. [mustache](mustache.md) <- fazer
+1. [spa](spa.md) <- fazer
 
 ## php
 
