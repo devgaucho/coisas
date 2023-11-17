@@ -26,5 +26,7 @@
 ## ubuntu
 
 1. [apache](apache) <- fazer
+1. [bash](bash.md) <- fazer
+1. [dwm](dwm.md) <- fazer
 1. [memcached](memcached) <- fazer
 1. [ubuntu básico](ubuntu_básico.md) <- fazer
