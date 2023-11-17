@@ -1,14 +1,22 @@
 # HTML
 
-## html básico de uma página
+## body
+
+a tag body fica logo após o fechamento da tag `<head>`
+
+```
+<body>
+```
+
+## doctype
+
+o *doctype* fica na primeira linha do código-fonte da página
 
 ```
 <!DOCTYPE html>
-<head>
-<title></title>
-</head>
-<body>
 ```
+
+os links ficam dentro da tag `<body>`
 
 ## link
 
